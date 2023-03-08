@@ -1,0 +1,16 @@
+.Header
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border:1px solid green;
+}
+.nav-item >ul
+{
+  list-style-type:none;
+  display: flex;
+}
+.nav-item >ul >li
+{
+    padding: 10px;
+}

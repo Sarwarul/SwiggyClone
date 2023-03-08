@@ -1,0 +1,11 @@
+
+.Hotellist
+{
+    border: 1px solid green;
+    width: 200px;
+    padding:10px;
+    margin: 10px;
+}
+.Hotellist >img{
+    width: 100%;
+}
